@@ -4,7 +4,7 @@
 
 ### Step 1: 🚀 Initial Setup
 
-- Clone the repository: `git clone https://github.com/get-convex/ai-world-fair.git`
+- Clone the repository: `git clone https://github.com/convex/ai-world-fair.git`
 - Navigate: `cd ai-world-fair`
 - Install dependencies: `npm ci`
 

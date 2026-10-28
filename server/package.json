@@ -16,7 +16,7 @@
     "personal",
     "assistant"
   ],
-  "repository": "https://github.com/get-convex/ai-world-fair.git",
+  "repository": "https://github.com/convex/ai-world-fair.git",
   "homepage": "https://convex.dev",
   "main": "index.ts",
   "scripts": {
